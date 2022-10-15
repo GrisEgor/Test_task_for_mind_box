@@ -1,2 +1,2 @@
-# Test_task_for_mind_box
- Test task from hh
+# Test task for mind box
+ Test task from hh for intern DS position
